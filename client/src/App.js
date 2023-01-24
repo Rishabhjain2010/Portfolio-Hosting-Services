@@ -1,10 +1,12 @@
 import React from 'react'
-import { MaintainceNotice } from './Components/MaintainceNotice'
+import MaintainceNotice from './MaintainceError/MaintainceNotice'
 
 const App = () => {
   return (
     <>
+    
     <MaintainceNotice />
+    
     </>
     )
 }
