@@ -1,5 +1,5 @@
 import React from 'react'
-import { MaintainceNotice } from './MaintainceNotice'
+import { MaintainceNotice } from './Components/MaintainceNotice'
 
 const App = () => {
   return (
