@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Hosting-Services/static/css/main.e6c13ad2.css",
+    "main.js": "/Portfolio-Hosting-Services/static/js/main.048af778.js",
+    "index.html": "/Portfolio-Hosting-Services/index.html",
+    "main.e6c13ad2.css.map": "/Portfolio-Hosting-Services/static/css/main.e6c13ad2.css.map",
+    "main.048af778.js.map": "/Portfolio-Hosting-Services/static/js/main.048af778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.048af778.js"
+  ]
+}
